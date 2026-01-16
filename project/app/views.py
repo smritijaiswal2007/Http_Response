@@ -12,7 +12,7 @@ def http_response(req):
     
     
     
-    # return HttpResponse("Hello")
+    # return HttpResponse("hello")
     # return HttpResponse("<h1> Helllo </h1>")
     # return HttpResponse("<h1 style='color:pink'> Hello Bebo </h1>")
     # data = '<h1> Hello Bebo </h1>'
